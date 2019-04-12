@@ -5,5 +5,6 @@ RUN     apt install -y cmake \
                        clang \
                        curl \
                        pkg-config \
-                       zlib1g-dev
+                       zlib1g-dev \
+                       libssl-dev
 
